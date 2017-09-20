@@ -1,1 +1,2 @@
 C:\Users\student\Downloads\HR_Departmet\HR_Departmet\bin\Debug\HR_Departmet.exe.config
+C:\Users\student\Downloads\Developer1\example2017-1\HR_Departmet\bin\Debug\HR_Departmet.exe.config
